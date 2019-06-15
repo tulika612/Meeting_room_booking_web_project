@@ -1,0 +1,169 @@
+.navbar {
+
+  background-color: #555;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 30px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.navbar a:hover {
+  background-color: white;
+  color: black;
+}
+
+.navbar .active {
+  background-color: blue;
+}
+
+.title {
+  padding-left: 150px;
+  font-size: 45px;
+  color: white;
+  font-style: oblique;
+  padding-top: 15px;
+}
+
+.logo img
+{
+	width:100px;
+	height:85px;
+	float:left;
+}
+body{
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.simple-form{
+  padding-left: 500px;
+  padding-top: 100px;
+	text-align: center;
+	margin: 0px 100px;
+	color: white;
+	link:#FFFFFF;
+}
+.simple-form1{
+  padding-left: 500px;
+  padding-top: 10px;
+  text-align: center;
+  margin: 0px 100px;
+  color: white;
+  link:#FFFFFF;
+}
+#registration{
+	width: 55%;
+	background-color: #051019;
+	opacity: 0.8;
+	padding: 50px 0px;
+}
+#button{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+}
+#ph{
+	width: 70px;
+	padding: 10px;
+	border-radius: 5px;
+}
+#mobile{
+	outline: 0px;
+	width: 180px;
+	padding: 10px;
+	border-radius: 5px;
+}
+#but{
+	color: #FFFFFF;
+	font-size: 18px;
+}
+
+#butt{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #16c92f;
+	border: 2px solid;
+	color: #030303;
+}
+#butt1{
+	width: 250px;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #f52f0f;
+	border: 2px solid;
+	color: #030303;
+}
+#footer
+{
+	background-color:black;
+	height:80px;
+	position:absolute;
+	width:100%;
+	left:0px;
+	bottom:0px;
+}
+#footer p
+{
+	margin-left:10px;
+}
+.navigationF
+{
+	float:center;
+	list-style:none;
+}
+.navigationF li
+{
+	display:inline-block;
+}
+.navigationF a
+{
+	color:white;
+	text-decoration:none;
+	padding:5px 20px;
+	font-family:Roboto;
+	font-size:20px;
+
+}
+#content
+{
+ color:purple;
+ font-size:45px;
+ text-align:center;
+}
+#content2
+{
+	color:black;
+    font-size:40px;
+    text-align:center;
+    animation-name:text1;
+    animation-duration:10s;
+    margin-top:70px;
+    opacity:0.95
+    /*animation-direction:alternate;*/
+}
+input[type=submit]
+{
+ background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  margin-left: 55px;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+}
+table {
+/*border: 1px solid #000;*/
+margin-left:600px;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+
+}

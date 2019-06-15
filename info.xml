@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="info.xsl"?>
+<meeting_room>
+
+<room>
+<name>Auditorim</name>
+<venue>H-Building</venue>
+<capacity>200</capacity>
+<description>This is large and lively auditorim with AC</description>
+<room_no>002</room_no>
+</room>
+
+<room>
+<name>Computer Seminar Hall</name>
+<venue>A-Building</venue>
+<capacity>150</capacity>
+<description>This is large and lively auditorim with projector</description>
+<room_no>003</room_no>
+</room>
+
+<room>
+<name>Entc Seminar Hall</name>
+<venue>C-Building</venue>
+<capacity>100</capacity>
+<description>This is large and lively auditorim.</description>
+<room_no>002</room_no>
+</room>
+</meeting_room>

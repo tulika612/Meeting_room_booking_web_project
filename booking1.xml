@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-stylesheet type="text/xsl" href="booking1.xsl"?>
+ 
+<Contact>
+<header>
+<home>Home</home>
+<sign> Sign out</sign>
+</header>
+<Title>
+<title>Contact Us</title>
+</Title>
+<contact>
+<name>Call us at:</name>
+<number>+91 2024371101</number>
+<mail>24372479</mail>
+</contact>
+
+<contact>
+<name>Leave us Email at:</name>
+<number>principle@pict.edu</number>
+<mail>registrar@pict.edu</mail>
+</contact>
+
+<location>
+	<name>
+		Survey No. 27, Near Trimurti Chowk, Dhankawadi, Pune, Maharashtra 411043
+	</name>
+</location>
+     <footer>
+   <about>About Us</about>
+   </footer>
+</Contact> 

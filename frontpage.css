@@ -1,0 +1,149 @@
+html
+{
+	height:100%;
+}
+body
+{
+	background-image:url(PICT-Pune.jpg);
+	background-size:cover;
+	background-repeat:no-repeat; 
+	height:100%;
+}
+#wrapper
+{
+ min-height:100%;
+ position:relative;
+}
+*
+{
+	margin:0;
+	padding:0;
+}
+header
+{
+	
+   height:80px;
+   gradient:(rgba(0,0,0,0.5),rgba(0,0,0,0.5),url(PICT-Pune.jpg));
+   margin-top:0px; 
+   background-color:skyblue;
+}
+.navigation
+{
+	float:right;
+	list-style:none;
+	margin-right:30px;
+	
+}
+.navigation li
+{
+	display:inline-block;
+} 
+.navigation a
+{
+	color:white;
+	text-decoration:none;
+	padding:5px 20px;
+	font-family:Roboto;
+	font-size:20px;
+
+}
+.navigation li.active a
+{
+	border:1.5px solid white;
+}
+.navigation li a:hover
+{
+	border:1.5px solid white;
+}
+.logo img
+{
+	width:80px;
+	height:auto;
+	float:left;
+}
+/*@keyframes slider
+{
+	from
+{
+	left:0px;
+}	
+to {
+ left:-2400px;
+}
+}
+.slider
+{
+	overflow:hidden;
+}
+.slider figure img
+{
+	
+	float:left;
+}
+.figure
+{
+	position:relative;
+	width:300%;
+	margin:0;
+	animation-duration:20s;
+	animation-name:slider;
+
+}*/
+@keyframes text1
+{
+	from{top:0px left:0px; }
+	to{top:0px left:20px;}
+}
+#footer
+{
+	background-color:black;
+	height:80px;
+	position:absolute; 
+	width:100%;
+	left:0px;
+	bottom:0px;
+}
+.navigationF
+{
+	float:center;
+	list-style:none;
+}
+.navigationF li
+{
+	display:inline-block;
+} 
+.navigationF a
+{
+	color:white;
+	text-decoration:none;
+	padding:5px 20px;
+	font-family:Roboto;
+	font-size:20px;
+
+}
+#footer
+{
+ color:white;
+}
+#footer p
+{
+	margin-left:10px;
+}
+#content 
+{
+ color:purple;
+ font-size:45px;
+ text-align:center;
+}
+#content2
+{
+	color:black;
+    font-size:40px;
+    text-align:center;
+    animation-name:text1;
+    animation-duration:10s;
+    margin-top:70px;
+    opacity:0.95
+    /*animation-direction:alternate;*/
+}
+}

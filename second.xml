@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xml" href="second.xsl"?>
+<class>
+	<meeting booking = "Auditorium">
+		<venue>H-building</venue>
+		<capacity>200</capacity>
+		<room>001</room>
+	</meeting>
+	<meeting booking = "Comp seminar">
+		<venue>A-building</venue>
+		<capacity>150</capacity>
+		<room>001</room>
+	</meeting>
+	<meeting booking = "It seminar">
+		<venue>C-building</venue>
+		<capacity>100</capacity>
+		<room>001</room>
+	</meeting>
+	<meeting booking = "Entc seminar">
+		<venue>C-building</venue>
+		<capacity>100</capacity>
+		<room>001</room>
+	</meeting>
+</class>
