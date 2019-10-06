@@ -1,9 +1,6 @@
 # web_project
-online meeting room booking which include features such as:
-1. Register/Login using email id
-2. Different types of cuisines to choose from
-3. Adding item in cart
-4. Deleting items from cart
-5. Payment using debit card
-6. Contact us page
-7. Feedback page
+online meeting room booking which include features:
+1. Register/Login using college id
+2. Different available room with photos
+3. Meeting room with required conditions
+4. Delete selected room
