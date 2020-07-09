@@ -13,7 +13,7 @@ Module 4 – Booking: This module provides provision for students to select opti
 Module 5 – Status : This module provides booking status for students.
 
 #WORKING
-1.Go to the folder directory where all project files are there. 	
+1.Go to the folder directory where all project files are there.
 2.Type command: php –S localhost:8000 	to start php server. 	
 3.Go to web browser and type http://localhost/[filename]
 4.First 	file in the project is ‘frontpage.html’, traverse the navigation 	bar as and when required.
