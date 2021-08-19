@@ -21,3 +21,15 @@ Module 5 – Status : This module provides booking status for students.
 6.User 	and book and cancel a booked room in its login.
 7.Logout to end the session.
 
+#SCREENSHOTS
+
+![Home Page](/Screenshots/image12.png)
+![Register](/Screenshots/image2.png)
+![Login](/Screenshots/image5.png)
+![Information Page](/Screenshots/image7.png)
+![Booking Status](/Screenshots/image8.png)
+![Contact Us](/Screenshots/image9.png)
+![Booking Page](/Screenshots/image10.png)
+![Database Table 1](/Screenshots/image1.png)
+![Database Table 2](/Screenshots/image3.png)
+![Database Table 3](/Screenshots/image6.png)
